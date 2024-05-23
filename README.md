@@ -3,7 +3,9 @@
 Dataanalytics project for the US Road Accidents Analysis bu using #msexcel , I have used Pivot charts, custom functions and many more things i have learnt in this project.
 
 📄 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐍𝐚𝐦𝐞 -  Road Accidents Analysis Report based on 2021 & 2022 data.
+
 📌 𝐕𝐢𝐬𝐮𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧 𝐓𝐨𝐨𝐥 - MS Excel
+
 📈 𝐊𝐏𝐈𝐬 𝐚𝐧𝐝 𝐨𝐭𝐡𝐞𝐫 𝐚𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐚𝐜𝐡𝐢𝐞𝐯𝐞𝐝 -
 1. Total casualties taken place after accident.
 2. Total casualties & Percent of total with respect to accident severity and maximum casualties by type of vehicles
