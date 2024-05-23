@@ -12,6 +12,7 @@ Dataanalytics project for the US Road Accidents Analysis bu using #msexcel , I h
 5. Maximum casualties by road type
 6. Distribution of total casualties by road surface
 7. Relation between causalities by Area / location / by day or night.
+   
 📊 𝐂𝐡𝐚𝐫𝐭𝐬 𝐔𝐬𝐞𝐝 -
 1. Donut Chart
 2. Area Chart
