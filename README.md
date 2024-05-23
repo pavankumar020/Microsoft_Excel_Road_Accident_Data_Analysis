@@ -1,6 +1,11 @@
 # Microsoft_Excel_Road_Accident_Data_Analysis
 
-Dataanalytics project for the US Road Accidents Analysis bu using #msexcel , I have used Pivot charts, custom functions and many more things i have learnt in this project.
+
+![Screenshot 2024-04-13 203302](https://github.com/pavankumar020/Microsoft_Excel_Road_Accident_Data_Analysis/assets/166691055/598cb014-809c-4671-9a56-a95242e90871)
+
+
+
+Dataanalytics project for the  Road Accidents Analysis bu using #msexcel , I have used Pivot charts, custom functions and many more things i have learnt in this project.
 
 📄 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐍𝐚𝐦𝐞 -  Road Accidents Analysis Report based on 2021 & 2022 data.
 
